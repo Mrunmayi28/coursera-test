@@ -1,0 +1,36 @@
+
+.navbar>.navbar-brand{
+	font-family: 'Lobster', cursive;
+	font-size: 1.5em;
+	color: white;
+}
+header{
+	font-family: 'Lobster', cursive;
+	font-size: 2em;
+	color: black;
+	text-align: center;
+}
+#navbarNav>.navbar-nav>.nav-item>a{
+	margin-left:1em; 
+	font-family: 'Lobster', cursive;
+	font-size: 1.3em;
+	color: white;
+}
+.navbar>.navbar-brand:hover{
+	color:gray;
+}
+#navbarNav>.navbar-nav>.nav-item>a:hover{
+	color: gray;
+}
+.container-fluid>.row>.col-xl-4{
+	background-color: #eeee;
+	font-family: 'Lobster', cursive;
+	font-size: 1em;
+	border:1em solid white;	
+}
+.container-fluid>.row>.col-xl-4>span>a{
+	color: red;
+}
+#navbarNav>.navbar-nav>.nav-item>a{
+	text-align: center;
+}
